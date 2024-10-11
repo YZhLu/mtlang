@@ -1,6 +1,6 @@
 {
   "name": "@aulazero/mtlang",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a working in progress project.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
