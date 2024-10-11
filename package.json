@@ -17,5 +17,8 @@
     "@changesets/cli": "^2.27.9",
     "tsup": "^8.3.0",
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "mathjs": "^13.2.0"
   }
 }
