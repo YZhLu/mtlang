@@ -1,5 +1,11 @@
 # @aulazero/mtlang
 
+## 1.1.1
+
+### Patch Changes
+
+- cda27e6: bug fix
+
 ## 1.1.0
 
 ### Minor Changes
