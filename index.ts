@@ -1,3 +1,1 @@
-import { questParser } from "./utils/questFactory";
-
-export default questParser
+export { questParser } from "./utils/questFactory";
